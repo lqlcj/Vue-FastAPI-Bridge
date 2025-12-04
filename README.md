@@ -2,8 +2,8 @@
 
 这是一个基于 Vue 3 + Vite + JavaScript 的简易接口测试面板，用于测试 FastAPI 后端接口。**新手友好版**，功能丰富但简单易用！
 
-## 功能特<img width="1013" height="821" alt="屏幕截图 2025-12-04 133909" src="https://github.com/user-attachments/assets/6dbb3f5e-b407-418b-a9df-974a6bb25c1e" />
-性
+## 功能特性<img width="1013" height="821" alt="屏幕截图 2025-12-04 133909" src="https://github.com/user-attachments/assets/6dbb3f5e-b407-418b-a9df-974a6bb25c1e" />
+
 
 ### 🔧 核心功能
 - ✅ **通用接口测试器** - 支持 GET、POST、PUT、DELETE、PATCH 等所有 HTTP 方法
